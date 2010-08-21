@@ -10,6 +10,8 @@ jugyo-icon-set
 ![minus.png](http://github.com/jugyo/jugyo-icon-set/raw/master/minus.png)
 ![ok.png](http://github.com/jugyo/jugyo-icon-set/raw/master/ok.png)
 ![ng.png](http://github.com/jugyo/jugyo-icon-set/raw/master/ng.png)
+![info.png](http://github.com/jugyo/jugyo-icon-set/raw/master/info.png)
+![alert.png](http://github.com/jugyo/jugyo-icon-set/raw/master/alert.png)
 ![top-arrow.png](http://github.com/jugyo/jugyo-icon-set/raw/master/top-arrow.png)
 ![right-arrow.png](http://github.com/jugyo/jugyo-icon-set/raw/master/right-arrow.png)
 ![bottom-arrow.png](http://github.com/jugyo/jugyo-icon-set/raw/master/bottom-arrow.png)
