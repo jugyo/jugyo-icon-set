@@ -10,6 +10,8 @@ jugyo-icon-set
 ![ok.png](http://github.com/jugyo/jugyo-icon-set/raw/master/ok.png)
 ![plus.png](http://github.com/jugyo/jugyo-icon-set/raw/master/plus.png)
 
+    for i in `ls *.png`; do echo "\![$i](http://github.com/jugyo/jugyo-icon-set/raw/master/$i)"; done
+
 Note on Patches/Pull Requests
 ----
 
