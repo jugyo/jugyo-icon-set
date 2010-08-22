@@ -7,6 +7,7 @@ jugyo-icon-set
 ![edit.png](http://github.com/jugyo/jugyo-icon-set/raw/master/png/edit.png)
 ![comment.png](http://github.com/jugyo/jugyo-icon-set/raw/master/png/comment.png)
 ![mail.png](http://github.com/jugyo/jugyo-icon-set/raw/master/png/mail.png)
+![star.png](http://github.com/jugyo/jugyo-icon-set/raw/master/png/star.png)
 ![person.png](http://github.com/jugyo/jugyo-icon-set/raw/master/png/person.png)
 ![people.png](http://github.com/jugyo/jugyo-icon-set/raw/master/png/people.png)
 ![plus.png](http://github.com/jugyo/jugyo-icon-set/raw/master/png/plus.png)
