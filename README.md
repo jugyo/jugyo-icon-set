@@ -17,6 +17,7 @@ jugyo-icon-set
 ![bottom-arrow.png](http://github.com/jugyo/jugyo-icon-set/raw/master/bottom-arrow.png)
 ![left-arrow.png](http://github.com/jugyo/jugyo-icon-set/raw/master/left-arrow.png)
 ![search.png](http://github.com/jugyo/jugyo-icon-set/raw/master/search.png)
+![rss.png](http://github.com/jugyo/jugyo-icon-set/raw/master/rss.png)
 
 Note on Patches/Pull Requests
 ----
