@@ -3,6 +3,7 @@ jugyo-icon-set
 
 ![home.png](http://github.com/jugyo/jugyo-icon-set/raw/master/home.png)
 ![delete.png](http://github.com/jugyo/jugyo-icon-set/raw/master/delete.png)
+![file.png](http://github.com/jugyo/jugyo-icon-set/raw/master/file.png)
 ![edit.png](http://github.com/jugyo/jugyo-icon-set/raw/master/edit.png)
 ![comment.png](http://github.com/jugyo/jugyo-icon-set/raw/master/comment.png)
 ![mail.png](http://github.com/jugyo/jugyo-icon-set/raw/master/mail.png)
